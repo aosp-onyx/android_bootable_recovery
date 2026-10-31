@@ -2,9 +2,9 @@
 #pragma once
 #include <cstdint>
 namespace aeraui::web {
-constexpr uint64_t kCompressedBytes = 40966036ULL;
-constexpr uint64_t kExpandedBytes = 210785213ULL;
-constexpr char kCompressedHash[] = "4e3941bd2bcbcc53e4d1bdc7641e7d7c7b16b848b8ba21bb934119118b37f197";
-constexpr char kExpandedHash[] = "dd9dce87850cd6ede704ca57b92d1ef0b76b28ceefc913a654278bb7bcc5b2db";
+constexpr uint64_t kCompressedBytes = 42773296ULL;
+constexpr uint64_t kExpandedBytes = 217274997ULL;
+constexpr char kCompressedHash[] = "c0b8884ac5cc54dca934f8ad0f8d63ee5fe14205bde411e9ffd515616e0d589f";
+constexpr char kExpandedHash[] = "2dc9441ee853fbd60d7d48a01c014792bab43e85c829c6e127320d40689af86e";
 constexpr uint32_t kMemberCount = 445;
 }

@@ -170,8 +170,8 @@
   {
     "path": "usr/lib/dri/zink_dri.so",
     "mode": 493,
-    "size": 16969592,
-    "sha256": "baf4850ed8c35fd00c202927dd9e718dbd4e50a3be55e43fa0214bd8869e7157"
+    "size": 21247960,
+    "sha256": "7d0f34eadc3909edfe8227b36c6c53d15e5195088dce6ca7df7e45bbd9811c05"
   },
   {
     "path": "usr/lib/gio/modules/libgiognutls.so",
@@ -290,14 +290,14 @@
   {
     "path": "usr/lib/libEGL.so.1",
     "mode": 493,
-    "size": 278152,
-    "sha256": "6f04bca513de55bc1f3cad49f089e6e2381b255d164d968039add6953a0ed706"
+    "size": 395496,
+    "sha256": "d3d961014a591879a8e024b9dd9cd4e5a3ab1c3d2e8f309d43cccdf0fee4b6b4"
   },
   {
     "path": "usr/lib/libGLESv2.so.2",
     "mode": 493,
-    "size": 56144,
-    "sha256": "ca683ff4f930f2eead21f95fc4fbb1952571ef161210d5e8c74c9a48f644f246"
+    "size": 67248,
+    "sha256": "00d0c3227d0401f1006a8d249eb796d92b84c28643fa7b3f467c819102bc4ce5"
   },
   {
     "path": "usr/lib/libWPEWebKit-2.0.so.1",
@@ -438,7 +438,7 @@
     "sha256": "28576b717802bfadafa7010c969822435a58a780a27a879b8ff62a9b1400b001"
   },
   {
-    "path": "usr/lib/libgallium-26.2.2.so",
+    "path": "usr/lib/libgallium-26.3.0-devel.so",
     "mode": 0,
     "size": 23,
     "sha256": "ec5a556f6e63a06599059635aad58364c6b8c360036bda789f4fbaf5484a0de8"
@@ -758,8 +758,8 @@
   {
     "path": "usr/lib/libvulkan_freedreno.so",
     "mode": 493,
-    "size": 13788616,
-    "sha256": "c41623c3f29648ce54e7f9e8cbfb7797cc1a5c9f9a6466c5f3e626f95b07dbd1"
+    "size": 15871576,
+    "sha256": "443a8a856eb27033100df9fe7719f104822cbe6629667f634d950b3f6f74152f"
   },
   {
     "path": "usr/lib/libwebp.so.7",
